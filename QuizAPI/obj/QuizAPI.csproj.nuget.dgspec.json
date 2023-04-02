@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MacBook\\Desktop\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI-main\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {}
+    "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MacBook\\Desktop\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI-main\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {
+    "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MacBook\\Desktop\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI-main\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+        "projectUniqueName": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
         "projectName": "QuizAPI",
-        "projectPath": "C:\\Users\\MacBook\\Desktop\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI-main\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
-        "packagesPath": "C:\\Users\\MacBook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MacBook\\Desktop\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI-main\\QuizAPI\\QuizAPI\\obj\\",
+        "projectPath": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+        "packagesPath": "C:\\Users\\Shamseer\\.nuget\\packages\\",
+        "outputPath": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MacBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Shamseer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,8 +72,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -87,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
