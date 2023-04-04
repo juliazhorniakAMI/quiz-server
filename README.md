@@ -1,4 +1,4 @@
-#Server part of the "Quiz App" where the authorized user can pass a test and check out the right/wrong answers with a certain duration of time spent for the test.
+# Server part of the "Quiz App" where the authorized user can pass a test and check out the right/wrong answers with a certain duration of time spent for the test.
 Check out the client part: 
 [https://github.com/juliazhorniakAMI/quiz-client](https://github.com/juliazhorniakAMI/quiz-client)
 
